@@ -23,7 +23,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Práctica 11:  Implementación de navegación entre Series de TV y Películas. |
-| Descripción  |  Esta practica se retomo la practica 10, en esta ocación se implemento la vista de series aplicando la misma formula que el la de peliculas, colocando cada una es una card, camviando la variable "movies" a la varieble "media", haciendo referencia que ya no solo se manda a traer las peliculas sino tambien las series.|
+| Descripción  |  Esta practica se retomo la practica 10, en esta ocación se implemento la vista de series aplicando la misma formula que el de peliculas, colocando cada una es una card, camviando la variable "movies" a la varieble "media", haciendo referencia que ya no solo se manda a traer las peliculas sino tambien las series.|
 |  Fecha de Actividad  |  04 de Octubre de 2023  |
 
 &nbsp;
