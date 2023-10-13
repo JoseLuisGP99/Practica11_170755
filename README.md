@@ -22,8 +22,8 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Práctica 11: Itemización de peliculas e incorporación del widget card en posters |
-| Descripción  |  Esta practica se enfoco principalmente en colocar cads a cada apartado de las peliculas con la ayuda de las Widget Cards, con ello se egrego el espaciado difuminado en la parte baja de cada card donde de va agregado el nombre de la pelicula, todo este trabajando con la practica 8.|
+| Nombre  |  Práctica 11:  Implementación de navegación entre Series de TV y Películas. |
+| Descripción  |  Esta practica se retomo la practica 10, en esta ocación se implemento la vista de series aplicando la misma formula que el la de peliculas, colocando cada una es una card, camviando la variable "movies" a la varieble "media", haciendo referencia que ya no solo se manda a traer las peliculas sino tambien las series.|
 |  Fecha de Actividad  |  04 de Octubre de 2023  |
 
 &nbsp;
