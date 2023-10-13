@@ -32,7 +32,6 @@
 &nbsp;
 &nbsp;
 
-## Salida
 
 ## Imagenes de Prueba
 [![Captura-de-pantalla-2023-10-06-141527.png](https://i.postimg.cc/Jzhyts7y/Captura-de-pantalla-2023-10-06-141527.png)](https://postimg.cc/xcWj4TzY)
@@ -42,10 +41,7 @@
 <br>
 <br>
 <br>
-<br>
 
 [![Pie-de-Practica.jpg](https://i.postimg.cc/MKKZ2nrV/Pie-de-Practica.jpg)](https://postimg.cc/WtCc01V1)
-## Descripción del Proyecto
 
-Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200327". La página de inicio contiene los siguientes componentes principales:
 
